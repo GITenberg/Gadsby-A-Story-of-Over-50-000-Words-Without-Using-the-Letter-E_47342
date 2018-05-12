@@ -1,4 +1,8 @@
 _repo: Gadsby-A-Story-of-Over-50-000-Words-Without-Using-the-Letter-E_47342
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47342-h/images/cover.jpg
 creator:
   author:
     agent_name: Wright, Ernest Vincent
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44269
     wikipedia: http://en.wikipedia.org/wiki/Ernest_Vincent_Wright
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47342#Gadsby-A-Story-of-Over-50-000-Words-Without-Using-the-Letter-E
 gutenberg_issued: '2014-11-13'
 gutenberg_type: Text
 identifiers:
